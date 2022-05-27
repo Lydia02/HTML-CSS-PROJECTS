@@ -1,0 +1,108 @@
+body {
+    background-image: url(coffee.jpg);
+    font-family: sans-serif;
+    padding: 20px;
+    size: 7in 9.25in;
+    margin:27mm 16mm 27mm 16mm;
+  }
+  
+  h1 {
+    font-size: 60px;
+    margin-top: 0;
+    margin-bottom: 15px;
+    color:bisque;
+  }
+  hr{
+      color: bisque;
+  }
+  
+  h2 {
+    font-size: 40px;
+    color: bisque;
+  }
+  
+  .established {
+    font-style:oblique;
+    color:bisque;
+    font-size: 30px;
+  }
+  
+  h1, h2, p, h4 {
+    text-align: center;
+    color: bisque;
+  }
+  
+  .menu {
+    width: 80%;
+    color: bisque;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    max-width: 500px;
+  }
+  
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:100px;
+    height: 50px;
+  }
+  
+  hr {
+    height: 2px;
+    background-color: bisque;
+    border-color: brown;
+  }
+  
+  .bottom-line {
+    margin-top: 25px;
+  }
+  
+  h1, h2 {
+    font-family: Impact, serif;
+  }
+  
+  .item p {
+    display: inline-block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 18px;
+  }
+  
+  .flavor, .dessert {
+    text-align: left;
+    width: 75%;
+  }
+  
+  .price {
+    text-align: right;
+    width: 25%;
+  }
+  
+  /* FOOTER */
+  
+  footer {
+    font-size: 14px;
+  }
+  
+  .address {
+    margin-bottom: 5px;
+  }
+  
+  a {
+    color: bisque;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: bisque;
+  }
+  
+  a:hover {
+    color: brown;
+  }
+  
+  a:active {
+    color: brown;
+  }
